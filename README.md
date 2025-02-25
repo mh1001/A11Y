@@ -1,3 +1,6 @@
+25.02.2025: Since github is a bit much overhead I am trying a combination of Mixa and Obsidian for gathering  new notes on accessibility: https://a11y.mixa.site/ 
+
+
 08.2022: **Thank you to all who helped me with this survey/thesis!** I could not have done it without your participation/support.
 
 In this thesis, the requirements of developers and people close to development for a national accessibility information source (AX) in Switzerland are investigated. The findings are intended to serve as a basis for discussion of next steps.
@@ -118,7 +121,7 @@ Big contributors
 ___
 <br><br>
 Last update:<br>
-
+25.02.2025: Giving Mixa & Obsidian combination a try: https://a11y.mixa.site/
 02.02.2025: Since GitHub Pages required a subscription and I never got contacted in regards to the repository I previously set the repository to private. I'm opening the repository up again without the GitHub Page. There will be some updates for a new ressources list probably in March/April 2025.
 
 09.08.2022: This site will not be updated since there are already so many other pages about accessibility. For example the website about accessibility of [Oblique (the front-end framework for Swiss branded UI based on Angular)](https://oblique.bit.admin.ch/guidelines/accessibility).<br>
